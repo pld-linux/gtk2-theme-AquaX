@@ -2,9 +2,9 @@ Summary:	AquaX theme
 Summary(pl):	Motyw AquaX
 Name:		gtk2-theme-AquaX
 Version:	1.0
-Release:	1
+Release:	2
 License:	GPL
-Group:		Themes/Gtk
+Group:		Themes/GTK+
 Source0:	http://ep09.pld-linux.org/~havner/AquaX.tar.bz2
 # Source0-md5:	3398c6476700f3656174a9a867382839
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
