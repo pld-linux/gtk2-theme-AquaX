@@ -1,5 +1,5 @@
 Summary:	AquaX theme
-Summary(pl):	Motyw AquaX
+Summary(pl.UTF-8):   Motyw AquaX
 Name:		gtk2-theme-AquaX
 Version:	1.0
 Release:	2
@@ -12,7 +12,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 AquaX theme based on MacOSX.
 
-%description -l pl
+%description -l pl.UTF-8
 Temat AquaX oparty na MacOSX.
 
 %prep
