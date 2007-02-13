@@ -1,5 +1,5 @@
 Summary:	AquaX theme
-Summary(pl.UTF-8):   Motyw AquaX
+Summary(pl.UTF-8):	Motyw AquaX
 Name:		gtk2-theme-AquaX
 Version:	1.0
 Release:	2
