@@ -7,6 +7,7 @@ License:	GPL
 Group:		Themes/GTK+
 Source0:	http://ep09.pld-linux.org/~havner/AquaX.tar.bz2
 # Source0-md5:	3398c6476700f3656174a9a867382839
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
